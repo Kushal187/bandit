@@ -156,3 +156,4 @@ we get instructions
 now password is stored in /etc/bandit_pass/bandit20
 to obtain this we have to use the following command
 ./bandit20-do cat /etc/bandit_pass/bandit20
+pass: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
